@@ -22,3 +22,4 @@ class ArticleSpider(CrawlSpider):
 
 # scrapy crawl article -o articles.csv -t csv
 # scrapy crawl article -o articles.json -t json
+# scrapy crawl article -o articles.xml -t xml
