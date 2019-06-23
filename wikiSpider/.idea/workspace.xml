@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1989df4-8dd2-4726-9b2f-c76a38ea7818" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wikiSpider/spiders/articleScrapy.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikiSpider/spiders/articleScrapy.py" afterDir="false" />
-    </list>
+    <list default="true" id="a1989df4-8dd2-4726-9b2f-c76a38ea7818" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wikiSpider/spiders/articleScrapy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="363">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -71,12 +69,6 @@
               <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
               <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wikiSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -86,7 +78,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bqb" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -169,7 +161,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
@@ -217,8 +208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wikiSpider/spiders/articleScrapy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="363">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
